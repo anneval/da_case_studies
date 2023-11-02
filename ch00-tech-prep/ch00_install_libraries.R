@@ -59,3 +59,4 @@ devtools::install_github("sboysel/fredr")
 # Part IV
 pacman::p_load(MatchIt, Matching, gmodels)
 pacman::p_load(reshape, car, plm, readstata13, Synth)
+
